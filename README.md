@@ -1,3 +1,4 @@
+## THIS FORK HAS BEEN ABANDONED
 syncthing
 =========
 
